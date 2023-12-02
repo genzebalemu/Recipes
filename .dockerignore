@@ -1,0 +1,6 @@
+node_modules
+config.env
+secret.json
+public
+yarn.lock
+package-lock.json
